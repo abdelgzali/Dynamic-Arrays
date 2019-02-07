@@ -1,6 +1,6 @@
 ## Dynamic-Arrays
 
-### Bitwise operation queries to demonstrate the flexibility of dynamic arrays like ArrayList
+### Bitwise operation queries to demonstrate the flexibility of dynamic arrays like ArrayList (fixed test case)
 
 - Create a list of 'N' empty sequences, where each sequence is indexed from 0 to N - 1. 
 - Create int 'lastAnswer' initialized at 0.
